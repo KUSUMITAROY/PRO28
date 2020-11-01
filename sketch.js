@@ -15,7 +15,7 @@ var mango1,mango2,mango3,mango4,mango5;
 function preload()
 {
  boyImage=loadImage("boy.png");	
- //back=loadImage("farm-fields.jpg");
+ 
 }
 
 function setup() {
